@@ -1,0 +1,13 @@
+{
+    "name": "index.js",
+    "version": "1.0.0",
+    "description": "Discord.js",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "discord.js": "^12.5.1",
+        "fs": "0.0.1-security"
+    }
+}
